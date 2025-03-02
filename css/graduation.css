@@ -1,0 +1,19 @@
+.camera {
+  font-size: 30px;
+  padding-left: 140px;
+  justify-content: center;
+}
+
+.camera pre {
+  display: inline-block;
+}
+
+body {
+  background-image: url(../img/bt2.jpg);
+  /* background-size: cover; */
+  height: 90vh;
+  /* width: 100vh; */
+  background-position: center;
+  background-size: cover;
+  /* padding-bottom: 50px; */
+}

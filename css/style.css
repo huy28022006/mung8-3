@@ -4,7 +4,8 @@ body {
   align-items: center;
   justify-content: center;
   text-emphasis: center;
-  background-color: #1e272e;
+  /* background-color: #1e272e; */
+  background: url(https://hoanghamobile.com/tin-tuc/wp-content/uploads/2024/04/anh-trai-tim-5.jpg);
 }
 
 .container {
@@ -59,6 +60,12 @@ body {
   color: #fff;
 }
 
+.container p {
+  color: #ddd;
+  font-size: 10px;
+  width: 100%;
+}
+
 .container li .content {
   position: absolute;
   top: 0;
@@ -102,4 +109,15 @@ body {
   scale: 1;
   opacity: 1;
   visibility: visible;
+}
+
+.loi-chuc pre {
+  padding-top: 100px;
+  font-size: 40px;
+  align-items: center;
+}
+
+.img img {
+  width: 5px;
+  height: 5px;
 }

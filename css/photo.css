@@ -1,0 +1,26 @@
+body {
+  background-image: url(https://marketplace.canva.com/EAFFKiXXzRg/1/0/1600w/canva-m%C3%A0u-h%E1%BB%93ng-v%C3%A0-n%C3%A2u-g%E1%BA%A5u-v%C3%A0-th%E1%BB%8F-%C4%91%C3%A1ng-y%C3%AAu-h%C3%ACnh-n%E1%BB%81n-m%C3%A1y-t%C3%ADnh-%C4%91%C6%A1n-gi%E1%BA%A3n-sk47afVzfio.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+body p {
+  font-size: 40px;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+  padding-left: 170px;
+}
+
+.ghi-chu {
+  font-size: 10px;
+  padding-top: 150px;
+  padding-left: 970px;
+}
+pre:hover {
+  color: hotpink;
+  font-size: 20px;
+  padding-left: 950px;
+}
